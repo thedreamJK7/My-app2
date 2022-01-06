@@ -1,0 +1,16 @@
+.ulCollect {
+    width: 600px;
+    margin: 50px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
+    list-style: none;
+}
+
+.ulCollect li {
+    width: 100%;
+    border: 1px solid #424242;
+    padding: 4px 6px;
+    margin-bottom: 5px;
+}
